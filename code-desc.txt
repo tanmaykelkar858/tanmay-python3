@@ -1,1 +1,2 @@
-This dile describes the code we write in this repositpry
+This file describes the code we write in this repository
+Adding another line to the description
